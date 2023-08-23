@@ -1,0 +1,7 @@
+.error-container {
+  width: max-content;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.error-container .btn { margin-block-start: 20px; }
